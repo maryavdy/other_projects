@@ -1,3 +1,3 @@
-# other_projects
+# wa_interacts
 
-for non-Dataquest projects
+Welcome Ambassador interactions
